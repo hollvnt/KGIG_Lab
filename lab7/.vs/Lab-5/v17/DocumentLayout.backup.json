@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\Git\\KGIG_Lab\\lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62EEF6AF-3DB2-42E2-87B3-618CF774B84A}|Lab-5\\Lab-5.vcxproj|D:\\Git\\Git\\KGIG_Lab\\lab7\\Lab-5\\CMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62EEF6AF-3DB2-42E2-87B3-618CF774B84A}|Lab-5\\Lab-5.vcxproj|solutionrelative:Lab-5\\CMatrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EEF6AF-3DB2-42E2-87B3-618CF774B84A}|Lab-5\\Lab-5.vcxproj|D:\\Git\\Git\\KGIG_Lab\\lab7\\Lab-5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62EEF6AF-3DB2-42E2-87B3-618CF774B84A}|Lab-5\\Lab-5.vcxproj|solutionrelative:Lab-5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EEF6AF-3DB2-42E2-87B3-618CF774B84A}|Lab-5\\Lab-5.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UM\\WINGDI.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wingdi.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\wingdi.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\wingdi.h",
+              "ViewState": "AgIAAPMDAAAAAAAAAADgv0cDAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T12:04:46.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMatrix.cpp",
+              "DocumentMoniker": "D:\\Git\\Git\\KGIG_Lab\\lab7\\Lab-5\\CMatrix.cpp",
+              "RelativeDocumentMoniker": "Lab-5\\CMatrix.cpp",
+              "ToolTip": "D:\\Git\\Git\\KGIG_Lab\\lab7\\Lab-5\\CMatrix.cpp",
+              "RelativeToolTip": "Lab-5\\CMatrix.cpp",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T12:04:35.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Git\\Git\\KGIG_Lab\\lab7\\Lab-5\\main.cpp",
+              "RelativeDocumentMoniker": "Lab-5\\main.cpp",
+              "ToolTip": "D:\\Git\\Git\\KGIG_Lab\\lab7\\Lab-5\\main.cpp",
+              "RelativeToolTip": "Lab-5\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T12:04:30.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
